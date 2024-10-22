@@ -14,7 +14,7 @@ Essa trilha vai te guiar pelos seguintes passos:
 
 Tudo isso de forma **prática** e **divertida**! 😄
 
-## 🗺️ **Estrutura do Curso**
+## 🗺️ **Estrutura do Projeto**
 > Siga cada módulo em ordem para construir uma base sólida no front-end:
 
 - **Módulo 1:** Introdução ao HTML 🏗️
