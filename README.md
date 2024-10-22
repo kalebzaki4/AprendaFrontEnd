@@ -28,7 +28,7 @@ Tudo isso de forma **prática** e **divertida**! 😄
 ## 🚀 **Como começar**
 1. **Clone este repositório**:  
    ```bash
-   git clone https://github.com/seuusuario/AprendaFrontEnd.git
+   git clone https://github.com/kalebzaki4/AprendaFrontEnd.git
    ```
 2. Navegue para o diretório do projeto:  
    ```bash
