@@ -14,7 +14,7 @@ Essa trilha vai te guiar pelos seguintes passos:
 
 Tudo isso de forma **prática** e **divertida**! 😄
 
-## 🗺️ **Estrutura do Curso**
+## 🗺️ **Estrutura do Projeto**
 > Siga cada módulo em ordem para construir uma base sólida no front-end:
 
 - **Módulo 1:** Introdução ao HTML 🏗️
@@ -28,7 +28,7 @@ Tudo isso de forma **prática** e **divertida**! 😄
 ## 🚀 **Como começar**
 1. **Clone este repositório**:  
    ```bash
-   git clone https://github.com/seuusuario/AprendaFrontEnd.git
+   git clone https://github.com/kalebzaki4/AprendaFrontEnd.git
    ```
 2. Navegue para o diretório do projeto:  
    ```bash
